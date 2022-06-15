@@ -3,11 +3,8 @@ package hexadecimal.to.decimal;
 import java.util.Scanner;
 
 /**
- * @author bilisimrehberi.net
- * Paylaşılan kodu sadece bilisimrehberi.net kullanıcıları kullanabilir.
- * bilisimrehberi.net dışında bir sitede sadece yazının bağlantısı verilerek paylaşılmasına izin verilir.
- * Kodları ticari amaçlı kullanmak yasaktır.
- * bilisimrehberi.net tüm hakları saklıdır.
+ * @author Alper Ragıb
+ * HexadecimalToDecimal
  */
 
 public class HexadecimalToDecimal {
